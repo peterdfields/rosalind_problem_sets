@@ -1,0 +1,6 @@
+Gene	CG%
+Rosalind_1055	0.521144
+Rosalind_5500	0.493441
+Rosalind_7916	0.522655
+Rosalind_4162	0.481441
+Rosalind_5391	0.513595

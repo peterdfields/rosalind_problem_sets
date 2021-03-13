@@ -1,0 +1,21 @@
+# Install numpy and scipy
+
+# Setup environment
+
+
+export CC=clang
+export CXX=clang
+export FFLAGS=-ff2c
+
+# numpy
+git clone https://github.com/numpy/numpy.git
+
+# cd in
+python setup.py build
+python setup.py install
+
+git clone https://github.com/scipy/scipy.git
+# cd in
+python setup.py build
+python setup.py install
+
